@@ -1,12 +1,27 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: GAME_NAME 1.0\n"
-"Language-Team: YOUR NAME <mail@your.address>\n"
-"Language: \n"
+"Project-Id-Version: PACKAGE VERSION\n"
+"PO-Revision-Date: 2026-01-02 02:14-0500\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Type: text/plain; charset=CHARSET\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-CreatedBy: LcfTrans"
+
+#~ msgid ""
+#~ msgstr ""
+#~ "Project-Id-Version: GAME_NAME 1.0\n"
+#~ "Language-Team: YOUR NAME <mail@your.address>\n"
+#~ "Language: \n"
+#~ "MIME-Version: 1.0\n"
+#~ "Content-Type: text/plain; charset=UTF-8\n"
+#~ "Content-Transfer-Encoding: 8bit\n"
+#~ "X-CreatedBy: LcfTrans"
 
 #. ID 2, Page 2, Line 19, Pos (43,54)
 #. Choice (4 options)
@@ -771,6 +786,10 @@ msgid ""
 "バッタが好き？\n"
 "どれも嫌い？"
 msgstr ""
+"Do you like fireflies?\n"
+"Do you like rainbow colored stag beetles?\n"
+"Do you like grasshoppers?\n"
+"You don't like anyone?"
 
 #. ID 9, Page 2, Line 1, Pos (50,60)
 #. Choice (2 options)
@@ -4089,6 +4108,9 @@ msgid ""
 "　　夢のまた夢、見果てぬ夢たちへ…\n"
 "　　忘れられない夢はありますか？"
 msgstr ""
+"窯良(oneirokamara)\n"
+"  Dreams in dreams, to dreams with endless sights...\n"
+"  Are these dreams unforgettable?"
 
 #. ID 104, Page 1, Line 11, Pos (39,37)
 msgid ""
