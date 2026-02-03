@@ -1,12 +1,16 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: GAME_NAME 1.0\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
 "Language-Team: YOUR NAME <mail@your.address>\n"
-"Language: \n"
+"Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-CreatedBy: LcfTrans"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.8\n"
 
 #. ID 2, Page 2, Line 19, Pos (43,54)
 #. Choice (4 options)
@@ -22,6 +26,8 @@ msgid ""
 "20\n"
 "はじめまして製作者の20です"
 msgstr ""
+"20\n"
+"Nice to meet you, I'm 20 the original creator."
 
 #. ID 2, Page 2, Line 27, Pos (43,54)
 msgid ""
@@ -304,7 +310,7 @@ msgid ""
 "OK ゆっくりしていってね"
 msgstr ""
 "かめりあ (Kamelia)\n"
-"Okay, take your time."
+"Okay, take your time"
 
 #. ID 6, Page 1, Line 1, Pos (45,78)
 msgid ""
@@ -788,6 +794,8 @@ msgid ""
 "Bokun\n"
 "あ、どうもBokunです。"
 msgstr ""
+"Bokun\n"
+"Ah, nice to meet you I am Bokun."
 
 #. ID 18, Page 1, Line 3, Pos (41,62)
 #. Contains choice at line 3 (2 options)
@@ -795,6 +803,8 @@ msgid ""
 "Bokun\n"
 "私の話、聞きますか？"
 msgstr ""
+"Bokun\n"
+"Want to listen to me talk?"
 
 #. ID 18, Page 1, Line 7, Pos (41,62)
 msgid "では……。"
@@ -3327,6 +3337,8 @@ msgid ""
 "\n"
 "にゃ。"
 msgstr ""
+"\n"
+"Nya."
 
 #. ID 95, Page 1, Line 2, Pos (42,74)
 #. Contains choice at line 2 (2 options)
@@ -3355,12 +3367,18 @@ msgctxt "actors.name"
 msgid "Player Name"
 msgstr ""
 
+# formatting is probably messed up
+# can't see this in game yet
 #. ID 96, Page 1, Line 8, Pos (9,12)
+#, fuzzy
 msgid ""
 "\\s[4]\n"
 "　　君は、\\.夢の果てを、\\.全てを見てここまで来た。\\|　　◆\n"
 "　　おめでとう。\\.\\.そして、\\.ありがとう。\\|\\n[7]。　　 　　 ◆"
 msgstr ""
+"\\s[4]\n"
+"　　You, \\.at the end of dreams, \\.have seen everything until now.\\|　　◆\n"
+"　　Congradulations. \\.\\. And,\\.Thank you.\\|\\n[7]。　　 　　 ◆"
 
 #. ID 98, Page 1, Line 2, Pos (49,39)
 msgid ""
@@ -3371,7 +3389,7 @@ msgstr ""
 
 #. ID 98, Page 1, Line 5, Pos (49,39)
 msgid "とりあえずこの堅苦しい感じやめにしません？"
-msgstr ""
+msgstr "Anyway, shall we stop with this formal atitude?"
 
 #. ID 98, Page 1, Line 6, Pos (49,39)
 #. Choice (4 options)
@@ -3430,7 +3448,6 @@ msgstr ""
 msgid ""
 "・・・間違って選択肢選んじゃった人のためにここで\n"
 "選択肢だ！優しいだろう？\n"
-""
 msgstr ""
 
 #. ID 98, Page 1, Line 30, Pos (49,39)
@@ -3993,7 +4010,6 @@ msgstr ""
 msgid ""
 "ゆめ２っきとはかなり長い付き合いで、\n"
 "まだverが0.1になる前からプレイしていました。\n"
-""
 msgstr ""
 
 #. ID 102, Page 1, Line 17, Pos (52,58)
@@ -4050,11 +4066,11 @@ msgstr ""
 
 #. ID 102, Page 1, Line 86, Pos (52,58)
 msgid "では、さようなら。"
-msgstr ""
+msgstr "Well then, bye."
 
 #. ID 103, Page 1, Line 1, Pos (53,51)
 msgid "どうも、Kontentsuです。"
-msgstr ""
+msgstr "Nice to meet you, I'm Kontentsu."
 
 #. ID 103, Page 1, Line 2, Pos (53,51)
 msgid "くにゃげになりました。"
@@ -4064,7 +4080,6 @@ msgstr ""
 msgid ""
 "何か聞きたいことはありますか？\n"
 "キーボードに記入してみてください。\n"
-""
 msgstr ""
 
 #. ID 103, Page 1, Line 6, Pos (53,51)
@@ -4088,6 +4103,7 @@ msgstr ""
 "Have good dreams from now on."
 
 #. ID 104, Page 1, Line 8, Pos (39,37)
+#, fuzzy
 msgid ""
 "窯良(oneirokamara)\n"
 "　　夢のまた夢、見果てぬ夢たちへ…\n"
@@ -4995,6 +5011,7 @@ msgid ""
 "それでは…… い い ゆ め み て ね"
 msgstr ""
 
+# i think ﾓﾌﾓﾝ is a contraction of もふもふ and もんもん
 #. ID 111, Page 1, Line 3, Pos (30,86)
 msgid ""
 "こんにちは、\\.\\.こんばんは！\\.\\.\n"
@@ -5003,8 +5020,8 @@ msgid ""
 "もんもん大好き！(ξっ´ω`c)ﾓﾌﾓﾝ!"
 msgstr ""
 "Good day,\\..\\.Good evening!\\.\\.\n"
-"I'm Mon-mon!\\.\\.\\....I'm not called \"Yawaraka.\"\n"
-"Mon-mon's 姿をお借りしまして、Pardon me.\\!\n"
+"I'm Mon-mon!\\.\\.\\....Not! I'm Yawaraka.\n"
+"I'm borrowing Mon-mon's body, pardon me.\\!\n"
 "Mon-mon loves you！(ξっ´ω`c)ﾓﾌﾓﾝ!"
 
 #. ID 111, Page 1, Line 7, Pos (30,86)
@@ -5792,13 +5809,15 @@ msgid ""
 msgstr ""
 "What is your favorite map?\n"
 "What did you draw?\n"
-"Bye bye."
+"Bye bye"
 
 #. ID 116, Page 1, Line 8, Pos (66,81)
 msgid ""
 "せにゅしあ\n"
 "うわ～迷っちゃうな…"
 msgstr ""
+"せにゅしあ (senyushia) \n"
+"Uwaah... I've done gone astray..."
 
 #. ID 116, Page 1, Line 10, Pos (66,81)
 #. Contains choice at line 3 (2 options)
@@ -5815,8 +5834,8 @@ msgid ""
 "大丈夫\n"
 "大丈夫ではない"
 msgstr ""
-"Sure.\n"
-"No thanks."
+"Sure\n"
+"No thanks"
 
 #. ID 116, Page 1, Line 14, Pos (66,81)
 msgid ""
@@ -6204,6 +6223,8 @@ msgid ""
 "お……お？\n"
 "デバッグちゅう　みたいですね。おつかれさまです。"
 msgstr ""
+"Oooh?\n"
+"Debugging it seems. Thank you for your hard work."
 
 #. ID 128, Page 2, Line 3, Pos (52,50)
 msgid ""
@@ -6314,4 +6335,3 @@ msgid ""
 "色んな想いが詰まった ゆめ を\n"
 "これからもたくさん愛でていこう ね"
 msgstr ""
-
