@@ -3367,18 +3367,17 @@ msgctxt "actors.name"
 msgid "Player Name"
 msgstr ""
 
-# formatting is probably messed up
+# formatting is messed up
 # can't see this in game yet
 #. ID 96, Page 1, Line 8, Pos (9,12)
-#, fuzzy
 msgid ""
 "\\s[4]\n"
 "　　君は、\\.夢の果てを、\\.全てを見てここまで来た。\\|　　◆\n"
 "　　おめでとう。\\.\\.そして、\\.ありがとう。\\|\\n[7]。　　 　　 ◆"
 msgstr ""
 "\\s[4]\n"
-"　　You, \\.at the end of dreams, \\.have seen everything until now.\\|　　◆\n"
-"　　Congratulations. \\.\\. And,\\.Thank you.\\|\\n[7]。　　 　　 ◆"
+"  You, \\.at the end, \\.have seen everything until now.\\|\n"
+"  Congratulations. \\.\\.And, \\.Thank you. \\|\\n[7]."
 
 #. ID 98, Page 1, Line 2, Pos (49,39)
 msgid ""
