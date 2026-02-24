@@ -11,15 +11,21 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-CreatedBy: LcfTrans\n"
 "X-Generator: Poedit 3.8\n"
+"X-Source-Language: ja\n"
 
 #. ID 2, Page 2, Line 19, Pos (43,54)
 #. Choice (4 options)
+#, fuzzy
 msgid ""
 "\\>ご挨拶\n"
 "\\>うろつき誕生秘話\n"
 "\\>あとがき\n"
 "\\>終了"
 msgstr ""
+"\\> Greetings\n"
+"\\> Urotsuki 誕生秘話 \n"
+"\\> あとがき \n"
+"\\> Exit"
 
 #. ID 2, Page 2, Line 25, Pos (43,54)
 msgid ""
@@ -42,6 +48,9 @@ msgid ""
 "「ゆめ２っき」\n"
 "楽しんで頂けましたか？"
 msgstr ""
+"20\n"
+"\"Yume 2kki\"\n"
+"Have you had fun from it?"
 
 #. ID 2, Page 2, Line 33, Pos (43,54)
 #. ID 2, Page 2, Line 66, Pos (43,54)
@@ -49,6 +58,8 @@ msgid ""
 "20\n"
 "……"
 msgstr ""
+"20\n"
+"......"
 
 #. ID 2, Page 2, Line 35, Pos (43,54)
 msgid ""
@@ -66,6 +77,9 @@ msgid ""
 "そして……\\!　このマップに来るまで\n"
 "やりこんだあなたはスゴイ！！"
 msgstr ""
+"20\n"
+"Anyway......\\! For coming to this map \n"
+"you are amazing!!"
 
 #. ID 2, Page 2, Line 41, Pos (43,54)
 msgid ""
@@ -94,6 +108,8 @@ msgid ""
 "20\n"
 "プレイヤーのあなたに感謝いたします"
 msgstr ""
+"20\n"
+"You the player have my gratitude."
 
 #. ID 2, Page 2, Line 63, Pos (43,54)
 msgid ""
@@ -253,12 +269,17 @@ msgid ""
 "それでは\n"
 "またどこかでお会いしましょう！"
 msgstr ""
+"20\n"
+"Well then\n"
+"Let's meet again elsewhere!"
 
 #. ID 2, Page 2, Line 155, Pos (43,54)
 msgid ""
 "20\n"
 "あなたに良い夢を！"
 msgstr ""
+"20\n"
+"Have good dreams!"
 
 #. ID 3, Page 1, Line 1, Pos (25,77)
 msgid ""
@@ -359,6 +380,10 @@ msgid ""
 "プレイヤーさんだけが入れるお部屋です。\n"
 "いわゆる、おまけ、ですね。"
 msgstr ""
+"\n"
+"Only players that have seen every\n"
+"ending can enter this room.\n"
+"It's what you would call a bonus, isn't it?"
 
 #. ID 6, Page 1, Line 18, Pos (45,78)
 msgid ""
@@ -397,12 +422,17 @@ msgstr ""
 
 #. ID 8, Page 1, Line 309, Pos (48,30)
 #. Choice (4 options)
+#, fuzzy
 msgid ""
 "\\>ご挨拶\n"
 "\\>自己紹介\n"
 "\\>なんかその他\n"
 "\\>×閉じる"
 msgstr ""
+"\\> Greetings\n"
+"\\> My introduction\n"
+"\\>なんかその他\n"
+"\\> Close"
 
 #. ID 8, Page 1, Line 317, Pos (48,30)
 msgid "……それにしても……。"
@@ -480,6 +510,10 @@ msgid ""
 "\n"
 "……おめでとう！"
 msgstr ""
+"What's this? It says something written here. \\!\n"
+"You managed to come here in time trial mode.\\!\n"
+"\n"
+"......Congratulations!"
 
 #. ID 8, Page 1, Line 366, Pos (48,30)
 msgid ""
@@ -788,6 +822,8 @@ msgid ""
 "もとに戻る？\n"
 "このまま？"
 msgstr ""
+"Return?\n"
+"Stay?"
 
 #. ID 18, Page 1, Line 1, Pos (41,62)
 msgid ""
@@ -808,7 +844,7 @@ msgstr ""
 
 #. ID 18, Page 1, Line 7, Pos (41,62)
 msgid "では……。"
-msgstr ""
+msgstr "Well then......"
 
 #. ID 18, Page 1, Line 8, Pos (41,62)
 msgid ""
@@ -3906,7 +3942,7 @@ msgstr ""
 #. ID 101, Page 4, Line 103, Pos (81,84)
 #. ID 101, Page 5, Line 103, Pos (81,84)
 msgid "2024年にリマスターしました。"
-msgstr ""
+msgstr "In 2024 it was remastered."
 
 #. ID 101, Page 3, Line 112, Pos (81,84)
 #. ID 101, Page 4, Line 107, Pos (81,84)
