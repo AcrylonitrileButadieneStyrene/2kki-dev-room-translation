@@ -1271,13 +1271,13 @@ msgstr ""
 #. ChangeHeroName (Actor 7)
 msgctxt "actors.name"
 msgid "うろつき"
-msgstr ""
+msgstr "Urotsuki"
 
 #. ID 67, Page 2, Line 63, Pos (32,68)
 #. ChangeHeroName (Actor 1)
 msgctxt "actors.name"
 msgid "【SR分室へ入室する】"
-msgstr ""
+msgstr "Sound room visitation <this text should not appear>"
 
 #. ID 67, Page 2, Line 151, Pos (32,68)
 msgid ""
@@ -1578,6 +1578,8 @@ msgid ""
 "どうもdedpです。\n"
 "喋ってもいいですか？"
 msgstr ""
+"Hello, I'm dedp.\n"
+"Is it good if we talk?"
 
 #. ID 76, Page 1, Line 3, Pos (51,29)
 #. Choice (4 options)
@@ -1587,6 +1589,10 @@ msgid ""
 "なんで落書きなの？\n"
 "ダメですよ"
 msgstr ""
+"It's okay.\n"
+"Where did you create people?\n"
+"What drawings?\n"
+"It's not okay."
 
 #. ID 76, Page 1, Line 5, Pos (51,29)
 msgid ""
@@ -1734,6 +1740,9 @@ msgid ""
 "こんにちは、\\.ゆきひつじと申します。\n"
 "\\.\\.何をお聞きになりますか？"
 msgstr ""
+"\\>      Yuki Hitsuji\\<\n"
+"Hello, \\.I am Yuki Hitsuji.\n"
+"\\.\\.What shall you hear?"
 
 #. ID 77, Page 1, Line 5, Pos (52,37)
 #. Choice (4 options)
@@ -2122,12 +2131,17 @@ msgid ""
 msgstr ""
 
 #. ID 79, Page 1, Line 1, Pos (42,41)
+#, fuzzy
 msgid ""
 "\\>スターマン\n"
 "「どうかおこしいただきありがとうございます。\n"
 "スターマンです。\n"
 "\\!どんな用件で話しかけたのですか？」"
 msgstr ""
+"Starman (GALAXY)\n"
+"\"どうかおこしいただきありがとうございます。\n"
+"I'm starman.\n"
+"\\!What sort of business shall we talk about?\""
 
 #. ID 79, Page 1, Line 5, Pos (42,41)
 #. Choice (4 options)
@@ -2137,6 +2151,10 @@ msgid ""
 "\\>なぜそこにいる\n"
 "\\>聞きたいことってあるの？"
 msgstr ""
+"\\> Why did you participate in the production?\n"
+"\\>Who are you?\n"
+"\\>Why are you over here?\n"
+"\\>Anything I'd like to hear?"
 
 #. ID 79, Page 1, Line 7, Pos (42,41)
 msgid ""
@@ -2198,6 +2216,9 @@ msgid ""
 "目から活動していました。何よりも最も問題ある製作者\n"
 "です。」"
 msgstr ""
+"\"I'm starman. In December 2014,\n"
+"I created 13 worlds. Above all, I am\n"
+"the producer with the most problems.\""
 
 #. ID 79, Page 1, Line 38, Pos (42,41)
 msgid ""
@@ -2299,6 +2320,9 @@ msgid ""
 "あっ、はい。\n"
 "どうしましたか？"
 msgstr ""
+"710\n"
+"Ah, hello.\n"
+"What's up?"
 
 #. ID 80, Page 1, Line 6, Pos (37,65)
 #. Choice (4 options)
@@ -2308,6 +2332,10 @@ msgid ""
 "製作に参加させてほしい。\n"
 "許さない。"
 msgstr ""
+"Let's talk.\n"
+"Tell me something interesting.\n"
+"I want to participate in the production.\n"
+"Sorry."
 
 #. ID 80, Page 1, Line 8, Pos (37,65)
 #. Choice (4 options)
@@ -2317,12 +2345,18 @@ msgid ""
 "自分の話\n"
 "最初に話してた話"
 msgstr ""
+"About Yume 2kki\n"
+"About Yume Nikki\n"
+"About me\n"
+"Repeat what was said in the beginning"
 
 #. ID 80, Page 1, Line 10, Pos (37,65)
 msgid ""
 "710\n"
 "あ、はい。"
 msgstr ""
+"710\n"
+"Ah, yes."
 
 #. ID 80, Page 1, Line 12, Pos (37,65)
 msgid ""
@@ -2335,7 +2369,9 @@ msgstr ""
 msgid ""
 "710\n"
 "どうぞ～。"
-msgstr "Go ahead..."
+msgstr ""
+"710\n"
+"Go ahead..."
 
 #. ID 80, Page 1, Line 17, Pos (37,65)
 msgid ""
@@ -2376,12 +2412,17 @@ msgid ""
 "『ゆめ2っき』は多人数で制作しているので\n"
 "その分、人それぞれの解釈が存在すると思ってます。"
 msgstr ""
+"710\n"
+"Yume 2kki's production has a lot of people involved,\n"
+"I think as such various interpretations exist."
 
 #. ID 80, Page 1, Line 30, Pos (37,65)
 msgid ""
 "710\n"
 "たぶん。"
 msgstr ""
+"710\n"
+"Probably."
 
 #. ID 80, Page 1, Line 32, Pos (37,65)
 msgid ""
@@ -2492,6 +2533,8 @@ msgid ""
 "710\n"
 "あっ、はいはい。"
 msgstr ""
+"710\n"
+"Ah, yeah yeah."
 
 #. ID 80, Page 1, Line 83, Pos (37,65)
 msgid ""
@@ -2686,6 +2729,8 @@ msgid ""
 "710\n"
 "すいません。"
 msgstr ""
+"710\n"
+"Excuse me."
 
 #. ID 80, Page 1, Line 170, Pos (37,65)
 msgid ""
@@ -2710,6 +2755,8 @@ msgid ""
 "710\n"
 "えっ。"
 msgstr ""
+"710\n"
+"Eh..."
 
 #. ID 80, Page 1, Line 213, Pos (37,65)
 msgid ""
@@ -2722,6 +2769,8 @@ msgid ""
 "710\n"
 "いやぁ。。。"
 msgstr ""
+"710\n"
+"Nah..."
 
 #. ID 80, Page 1, Line 217, Pos (37,65)
 msgid ""
@@ -2833,18 +2882,24 @@ msgid ""
 "710\n"
 "あ"
 msgstr ""
+"710\n"
+"Ah"
 
 #. ID 80, Page 1, Line 269, Pos (37,65)
 msgid ""
 "710\n"
 "あっ、どうも710と申します。"
 msgstr ""
+"710\n"
+"Ah, hello I am called 710."
 
 #. ID 80, Page 1, Line 271, Pos (37,65)
 msgid ""
 "710\n"
 "まずは、どうもすみません。"
 msgstr ""
+"710\n"
+"Firstly, excuse me."
 
 #. ID 80, Page 1, Line 273, Pos (37,65)
 msgid ""
@@ -2852,10 +2907,13 @@ msgid ""
 "身長がデカすぎるもので、\n"
 "邪魔でしたらホントに申し訳ないです。"
 msgstr ""
+"710\n"
+"Since I'm a person way too tall,\n"
+"if it causes any annoyance I am truly sorry."
 
 #. ID 80, Page 1, Line 281, Pos (37,65)
 msgid "なにか？"
-msgstr ""
+msgstr "What?"
 
 #. ID 81, Page 1, Line 1, Pos (56,76)
 msgid "ここは絵師職人様方の部屋です。"
@@ -2867,6 +2925,9 @@ msgid ""
 "グラフィック面で制作に携わった方々、\n"
 "設置お待ちしています。"
 msgstr ""
+"Wallpapers, backgrounds, and characters\n"
+"People that have created these graphics,\n"
+"please wait for them to be added."
 
 #. ID 82, Page 1, Line 1, Pos (35,76)
 msgid "ここは音職人様方の部屋です。"
@@ -2877,6 +2938,8 @@ msgid ""
 "BGM、SE面で制作に携わった方々、\n"
 "設置お待ちしています。"
 msgstr ""
+"People that have created BGM and sound effects,\n"
+"please wait for them to be added."
 
 #. ID 83, Page 1, Line 3, Pos (42,59)
 msgid "…もうチェンソーはやめてね(遠い目)"
@@ -2892,7 +2955,7 @@ msgstr ""
 #. ID 83, Page 1, Line 15, Pos (42,59)
 #. Contains choice at line 2 (3 options)
 msgid "\\>＼おまけ／"
-msgstr ""
+msgstr "\\>\\Bonus/"
 
 #. ID 83, Page 1, Line 16, Pos (42,59)
 #. Choice (3 options, embedded in a message)
@@ -3274,10 +3337,13 @@ msgid ""
 "はじめまして、アノンです。\n"
 "ようこそいらっしゃいました(*´д｀*)"
 msgstr ""
+"[Anon]\n"
+"Nice to meet you, I'm anon.\n"
+"Welcome! (*´д｀*)"
 
 #. ID 85, Page 1, Line 4, Pos (19,88)
 msgid "何か聞きたいことはありますか(・ω・)？"
-msgstr ""
+msgstr "Is there anything you want to hear (・ω・)?"
 
 #. ID 85, Page 1, Line 5, Pos (19,88)
 #. Choice (4 options)
@@ -3287,6 +3353,10 @@ msgid ""
 "曲を戻して\n"
 "なんでもないよ"
 msgstr ""
+"Why create BGM?\n"
+"Music recommendations?\n"
+"Return the original music\n"
+"Nothing."
 
 #. ID 85, Page 1, Line 7, Pos (19,88)
 msgid ""
@@ -3343,6 +3413,10 @@ msgid ""
 "さわやかな気持ち\n"
 "幸せな気持ち"
 msgstr ""
+"Somber feeling\n"
+"Energetic feeling\n"
+"Refreshing feeling\n"
+"Happy feeling"
 
 #. ID 85, Page 1, Line 49, Pos (19,88)
 msgid ""
@@ -3410,7 +3484,7 @@ msgstr "\\>Do you want to ride?"
 #. Condition (Actor Name = Player Name)
 msgctxt "actors.name"
 msgid "Player Name"
-msgstr ""
+msgstr "Player Name"
 
 # formatting is messed up
 # can't see this in game yet
@@ -3734,7 +3808,7 @@ msgstr ""
 
 #. ID 101, Page 3, Line 5, Pos (81,84)
 msgid "好きな曲を選んでくださいね。"
-msgstr ""
+msgstr "Please choose music I like."
 
 #. ID 101, Page 3, Line 6, Pos (81,84)
 #. Choice (4 options)
@@ -4327,7 +4401,9 @@ msgstr ""
 msgid ""
 "2i9\n"
 "　嬉しくて爆発する！ああもう！"
-msgstr "I'm so happy I'll explode! That's it!"
+msgstr ""
+"2i9\n"
+"I'm so happy I'll explode! That's it!"
 
 #. ID 106, Page 1, Line 21, Pos (39,53)
 msgid ""
