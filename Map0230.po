@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-CreatedBy: LcfTrans\n"
-"X-Generator: Poedit 3.8\n"
+"X-Generator: Poedit 3.5\n"
 "X-Source-Language: ja\n"
 
 #. ID 2, Page 2, Line 19, Pos (43,54)
@@ -1752,6 +1752,10 @@ msgid ""
 "\\>どうして製作に参加したの？\n"
 "\\>質問していいよ"
 msgstr ""
+"\\>Nothing really\n"
+"\\>Have something you want to convey?\n"
+"\\>Why participate in the production?\n"
+"\\>A question is good"
 
 #. ID 77, Page 1, Line 7, Pos (52,37)
 msgid ""
@@ -1917,6 +1921,10 @@ msgid ""
 "\\>トラウマになった\n"
 "\\>ノーコメント"
 msgstr ""
+"\\>Still not ready\n"
+"\\>10 interesting things\n"
+"\\>I've become traumatized\n"
+"\\>No comment"
 
 #. ID 77, Page 1, Line 88, Pos (52,37)
 msgid ""
@@ -2131,15 +2139,14 @@ msgid ""
 msgstr ""
 
 #. ID 79, Page 1, Line 1, Pos (42,41)
-#, fuzzy
 msgid ""
 "\\>スターマン\n"
 "「どうかおこしいただきありがとうございます。\n"
 "スターマンです。\n"
 "\\!どんな用件で話しかけたのですか？」"
 msgstr ""
-"Starman (GALAXY)\n"
-"\"どうかおこしいただきありがとうございます。\n"
+"\\>Starman (GALAXY)\n"
+"\"Thank you for coming to visit somehow.\n"
 "I'm starman.\n"
 "\\!What sort of business shall we talk about?\""
 
@@ -2333,7 +2340,7 @@ msgid ""
 "許さない。"
 msgstr ""
 "Let's talk.\n"
-"Tell me something interesting.\n"
+"Show me something interesting.\n"
 "I want to participate in the production.\n"
 "Sorry."
 
@@ -2348,7 +2355,7 @@ msgstr ""
 "About Yume 2kki\n"
 "About Yume Nikki\n"
 "About me\n"
-"Repeat what was said in the beginning"
+"Repeat what I said at the start"
 
 #. ID 80, Page 1, Line 10, Pos (37,65)
 msgid ""
@@ -2396,8 +2403,8 @@ msgid ""
 "ひとつの答えは出してないつもりです。"
 msgstr ""
 "710\n"
-"In Yume 2kki, it's my intention\n"
-"to not reveal something's answer."
+"It's my intention to not give you\n"
+"any answers about Yume 2kki."
 
 #. ID 80, Page 1, Line 24, Pos (37,65)
 msgid ""
@@ -2405,6 +2412,9 @@ msgid ""
 "貴方がそう思ったなら、\n"
 "そういうことなんです。"
 msgstr ""
+"710\n"
+"If you think so,\n"
+"it's what you think."
 
 #. ID 80, Page 1, Line 27, Pos (37,65)
 msgid ""
@@ -2413,8 +2423,8 @@ msgid ""
 "その分、人それぞれの解釈が存在すると思ってます。"
 msgstr ""
 "710\n"
-"Yume 2kki's production has a lot of people involved,\n"
-"I think as such various interpretations exist."
+"Yume 2kki's production lots of people involved,\n"
+"I think as such many interpretations exist."
 
 #. ID 80, Page 1, Line 30, Pos (37,65)
 msgid ""
@@ -2430,6 +2440,9 @@ msgid ""
 "というわけですので、\n"
 "どんどん好きなように解釈しちゃってくださいな。"
 msgstr ""
+"710\n"
+"That reason aside,\n"
+"Please continue as you like to go and interpet."
 
 #. ID 80, Page 1, Line 37, Pos (37,65)
 msgid ""
@@ -2650,6 +2663,9 @@ msgid ""
 "リアルの仕事をしていた数年間で\n"
 "『YNO』というオンラインサービスが立ち上がり、"
 msgstr ""
+"710\n"
+"For several years I had a real job\n"
+"An online service called \"YNO\" came up,"
 
 #. ID 80, Page 1, Line 130, Pos (37,65)
 msgid ""
@@ -2715,6 +2731,8 @@ msgid ""
 "710\n"
 "うーん。"
 msgstr ""
+"710\n"
+"Yes."
 
 #. ID 80, Page 1, Line 155, Pos (37,65)
 msgid ""
@@ -2737,18 +2755,24 @@ msgid ""
 "710\n"
 "あっ、はい。"
 msgstr ""
+"710\n"
+"Ah, yes."
 
 #. ID 80, Page 1, Line 172, Pos (37,65)
 msgid ""
 "710\n"
 "うーん、こういうのとかどうすか。"
 msgstr ""
+"710\n"
+"Yes, it's as you say. "
 
 #. ID 80, Page 1, Line 207, Pos (37,65)
 msgid ""
 "710\n"
 "どうすか？このキャラちょっと好きなのよね。"
 msgstr ""
+"710\n"
+"How's this? I like this this character a bit."
 
 #. ID 80, Page 1, Line 211, Pos (37,65)
 msgid ""
@@ -4403,7 +4427,7 @@ msgid ""
 "　嬉しくて爆発する！ああもう！"
 msgstr ""
 "2i9\n"
-"I'm so happy I'll explode! That's it!"
+"  I'm so happy I'll explode! That's it!"
 
 #. ID 106, Page 1, Line 21, Pos (39,53)
 msgid ""
@@ -4411,7 +4435,7 @@ msgid ""
 "　この瞬間が一番、生きてるって感じ。"
 msgstr ""
 "2i9\n"
-"This moment is the most I feel alive."
+"  This moment is the most I feel alive."
 
 #. ID 107, Page 1, Line 7, Pos (79,84)
 msgid ""
