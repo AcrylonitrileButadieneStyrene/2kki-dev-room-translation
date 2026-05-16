@@ -286,7 +286,7 @@ msgid ""
 "かめりあ\n"
 "俺の作った他の曲聞くかい？"
 msgstr ""
-"かめりあ (Kamelia)\n"
+"Camelia\n"
 "Would you like me to play a different song?"
 
 #. ID 3, Page 1, Line 3, Pos (25,77)
@@ -422,17 +422,16 @@ msgstr ""
 
 #. ID 8, Page 1, Line 309, Pos (48,30)
 #. Choice (4 options)
-#, fuzzy
 msgid ""
 "\\>ご挨拶\n"
 "\\>自己紹介\n"
 "\\>なんかその他\n"
 "\\>×閉じる"
 msgstr ""
-"\\> Greetings\n"
-"\\> My introduction\n"
-"\\>なんかその他\n"
-"\\> Close"
+"\\>Greetings\n"
+"\\>Your introduction\n"
+"\\>Something else\n"
+"\\>×Close"
 
 #. ID 8, Page 1, Line 317, Pos (48,30)
 msgid "……それにしても……。"
@@ -2342,7 +2341,7 @@ msgstr ""
 "Let's talk.\n"
 "Show me something interesting.\n"
 "I want to participate in the production.\n"
-"Sorry."
+"Excuse me."
 
 #. ID 80, Page 1, Line 8, Pos (37,65)
 #. Choice (4 options)
@@ -3362,7 +3361,7 @@ msgid ""
 "ようこそいらっしゃいました(*´д｀*)"
 msgstr ""
 "[Anon]\n"
-"Nice to meet you, I'm anon.\n"
+"Nice to meet you, I'm Anon.\n"
 "Welcome! (*´д｀*)"
 
 #. ID 85, Page 1, Line 4, Pos (19,88)
@@ -3377,10 +3376,10 @@ msgid ""
 "曲を戻して\n"
 "なんでもないよ"
 msgstr ""
-"Why create BGM?\n"
-"Music recommendations?\n"
-"Return the original music\n"
-"Nothing."
+"Why did you create BGM?\n"
+"Any music recommendations?\n"
+"Return the original music.\n"
+"It's nothing."
 
 #. ID 85, Page 1, Line 7, Pos (19,88)
 msgid ""
@@ -4223,6 +4222,8 @@ msgid ""
 "何か聞きたいことはありますか？\n"
 "キーボードに記入してみてください。\n"
 msgstr ""
+"Is there anything you want to ask?\n"
+"Please try responding with your keyboard.\n"
 
 #. ID 103, Page 1, Line 6, Pos (53,51)
 msgid "(K -△-)　記入タイム・"
@@ -4267,6 +4268,8 @@ msgid ""
 "プレイお疲れ様です。\n"
 "自分も色々お話させてもらおうかな。"
 msgstr ""
+"Thanks for playing.\n"
+"Even I have various things to say."
 
 #. ID 105, Page 1, Line 4, Pos (38,61)
 #. Choice (4 options)
@@ -4276,6 +4279,10 @@ msgid ""
 "好きな夢世界（※ネタバレ注意）\n"
 "口を閉じやがれ"
 msgstr ""
+"Your introduction\n"
+"Talk about your relation to the production\n"
+"Dream worlds you like (※Caution: Spoilers)\n"
+"Shut your mouth"
 
 #. ID 105, Page 1, Line 6, Pos (38,61)
 msgid ""
@@ -4283,6 +4290,9 @@ msgid ""
 "ver0.104から参加しているツクラーです。\n"
 "マップデザインの一部を担当しました。"
 msgstr ""
+"I am called natl.\n"
+"Since version 0.104 I have partipated in creating.\n"
+"Map design was my primary responsibility."
 
 #. ID 105, Page 1, Line 11, Pos (38,61)
 msgid "クソデカカクテルが置かれている世界や"
@@ -4290,7 +4300,7 @@ msgstr ""
 
 #. ID 105, Page 1, Line 14, Pos (38,61)
 msgid "メキシコみたいな世界など"
-msgstr ""
+msgstr "Mexico looking worlds..."
 
 #. ID 105, Page 1, Line 17, Pos (38,61)
 msgid "その周辺の制作を担当させていただきました。"
@@ -4399,7 +4409,7 @@ msgstr ""
 
 #. ID 105, Page 1, Line 71, Pos (38,61)
 msgid "ﾜｰｵ!"
-msgstr ""
+msgstr "Woah!"
 
 #. ID 105, Page 2, Line 1, Pos (38,61)
 msgid "デバッグお疲れ様です、natlです。"
@@ -5168,10 +5178,10 @@ msgid ""
 "もんもんの姿をお借りしまして、失礼致します。\\!\n"
 "もんもん大好き！(ξっ´ω`c)ﾓﾌﾓﾝ!"
 msgstr ""
-"Good day,\\..\\.Good evening!\\.\\.\n"
+"Good day, \\.\\.Good evening!\\.\\.\n"
 "I'm Mon-mon!\\.\\.\\....Not! I'm Yawaraka.\n"
-"I'm borrowing Mon-mon's body, pardon me.\\!\n"
-"Mon-mon loves you！(ξっ´ω`c)ﾓﾌﾓﾝ!"
+"I'm borrowing Mon-mon's form, pardon me.\\!\n"
+"I love Mon-mon！(ξっ´ω`c)ﾓﾌﾓﾝ!"
 
 #. ID 111, Page 1, Line 7, Pos (30,86)
 msgid ""
@@ -5948,6 +5958,9 @@ msgid ""
 "こんばんは！せにゅしあと申します。\n"
 "壁紙などを寄稿させていただいています。"
 msgstr ""
+"senyushia\n"
+"Good evening! I am called senyushia.\n"
+"I have contributed wallpapers and such."
 
 #. ID 116, Page 1, Line 6, Pos (66,81)
 #. Choice (3 options)
@@ -5965,7 +5978,7 @@ msgid ""
 "せにゅしあ\n"
 "うわ～迷っちゃうな…"
 msgstr ""
-"せにゅしあ (senyushia) \n"
+"senyushia\n"
 "Uwaah... I've done gone astray..."
 
 #. ID 116, Page 1, Line 10, Pos (66,81)
@@ -5974,7 +5987,7 @@ msgid ""
 "せにゅしあ\n"
 "すごい長くなっちゃうんですけど大丈夫ですかね？"
 msgstr ""
-"せにゅしあ (senyushia)\n"
+"senyushia\n"
 "It'll be super long, do you still want to hear?"
 
 #. ID 116, Page 1, Line 12, Pos (66,81)
@@ -6119,7 +6132,7 @@ msgid ""
 "せにゅしあ\n"
 "これとか…"
 msgstr ""
-"せにゅしあ (senyushia)\n"
+"senyushia\n"
 "This one..."
 
 #. ID 116, Page 1, Line 137, Pos (66,81)
