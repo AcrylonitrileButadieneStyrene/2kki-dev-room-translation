@@ -11,11 +11,9 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-CreatedBy: LcfTrans\n"
 "X-Generator: Poedit 3.5\n"
-"X-Source-Language: ja\n"
 
 #. ID 2, Page 2, Line 19, Pos (43,54)
 #. Choice (4 options)
-#, fuzzy
 msgid ""
 "\\>ご挨拶\n"
 "\\>うろつき誕生秘話\n"
@@ -1165,7 +1163,7 @@ msgid ""
 "\\>【12部屋目の310】\n"
 "\\>そうか"
 msgstr ""
-"\\>[>>310 of thread #12]\r\n"
+"\\>[>>310 of thread #12]\n"
 "\\>Yeah"
 
 #. ID 67, Page 1, Line 48, Pos (32,68)
@@ -3528,8 +3526,6 @@ msgctxt "actors.name"
 msgid "Player Name"
 msgstr "Player Name"
 
-# formatting is messed up
-# can't see this in game yet
 #. ID 96, Page 1, Line 8, Pos (9,12)
 msgid ""
 "\\s[4]\n"
@@ -4273,21 +4269,12 @@ msgstr ""
 "Thank you very much.\n"
 "Have good dreams from now on."
 
-#. ID 104, Page 1, Line 8, Pos (39,37)
-msgid ""
-"窯良(oneirokamara)\n"
-"　　夢のまた夢、見果てぬ夢たちへ…\n"
-"　　忘れられない夢はありますか？"
+#. ID 104, Page 1, Line 8, Pos (53,54)
+msgid "夢のまた夢、見果てぬ夢たちへ"
 msgstr ""
-"窯良(oneirokamara)\n"
-"    Dreams in dreams, to dreams with endless sights...\n"
-"    Are these dreams unforgettable?"
 
-#. ID 104, Page 1, Line 11, Pos (39,37)
-msgid ""
-"　　うろつきとプレイヤーのみなさまに\n"
-"　　素晴らしい夢路がこれからも訪れることを\n"
-"　　心より願っています。"
+#. ID 104, Page 1, Line 9, Pos (53,54)
+msgid "またこれからも　良い夢を"
 msgstr ""
 
 #. ID 105, Page 1, Line 1, Pos (38,61)
@@ -5197,7 +5184,6 @@ msgid ""
 "それでは…… い い ゆ め み て ね"
 msgstr ""
 
-# i think ﾓﾌﾓﾝ is a contraction of もふもふ and もんもん
 #. ID 111, Page 1, Line 3, Pos (30,86)
 msgid ""
 "こんにちは、\\.\\.こんばんは！\\.\\.\n"
