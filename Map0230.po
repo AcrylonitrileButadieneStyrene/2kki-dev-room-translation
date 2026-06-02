@@ -131,12 +131,17 @@ msgid ""
 "見終わったら\n"
 "何かキーを押してください"
 msgstr ""
+"20\n"
+"If you want to stop seeing\n"
+"please press any key"
 
 #. ID 2, Page 2, Line 79, Pos (43,54)
 msgid ""
 "20\n"
 "どうでしたか？"
 msgstr ""
+"20\n"
+"What will you do?"
 
 #. ID 2, Page 2, Line 81, Pos (43,54)
 msgid ""
@@ -1078,6 +1083,8 @@ msgid ""
 "\\>【12部屋目の310】\n"
 "\\>よぉ"
 msgstr ""
+"\\>[>>310 of thread #12]\n"
+"\\>Yo"
 
 #. ID 67, Page 1, Line 6, Pos (32,68)
 msgid ""
@@ -1099,6 +1106,8 @@ msgid ""
 "\\>【12部屋目の310】\n"
 "\\>そうか　ありがとな"
 msgstr ""
+"\\>[>>310 of thread #12]\n"
+"\\>I see. Thank you."
 
 #. ID 67, Page 1, Line 14, Pos (32,68)
 msgid ""
@@ -1112,6 +1121,8 @@ msgid ""
 "\\>【12部屋目の310】\n"
 "\\>そうそう"
 msgstr ""
+"\\>[>>310 of thread #12]\n"
+"\\>Yeah yeah"
 
 #. ID 67, Page 1, Line 19, Pos (32,68)
 msgid ""
@@ -1154,6 +1165,8 @@ msgid ""
 "\\>【12部屋目の310】\n"
 "\\>そうか"
 msgstr ""
+"\\>[>>310 of thread #12]\r\n"
+"\\>Yeah"
 
 #. ID 67, Page 1, Line 48, Pos (32,68)
 msgid ""
@@ -1304,6 +1317,9 @@ msgid ""
 "………。\n"
 "えーと、しゃべってもいいでしょうか？"
 msgstr ""
+"Zoo\n"
+".........\n"
+"Uh, is it fine if we talk?"
 
 #. ID 70, Page 1, Line 4, Pos (38,31)
 #. Choice (3 options)
@@ -1557,6 +1573,9 @@ msgid ""
 "うわっ！？\\!\n"
 "あぁびっくりした、デバッグ中の人か……。"
 msgstr ""
+"karaud\n"
+"Waa!?\\!\n"
+"Ah, you startled me, a debug user......"
 
 #. ID 74, Page 3, Line 29, Pos (47,30)
 msgid ""
@@ -1685,11 +1704,11 @@ msgstr ""
 #. ID 76, Page 1, Line 49, Pos (51,29)
 #. ID 76, Page 1, Line 51, Pos (51,29)
 msgid "こことか"
-msgstr ""
+msgstr "Or here"
 
 #. ID 76, Page 1, Line 53, Pos (51,29)
 msgid "こことか　"
-msgstr ""
+msgstr "Or here"
 
 #. ID 76, Page 1, Line 55, Pos (51,29)
 msgid ""
@@ -1731,7 +1750,7 @@ msgstr ""
 
 #. ID 76, Page 1, Line 75, Pos (51,29)
 msgid "えっ・・"
-msgstr ""
+msgstr "Eh..."
 
 #. ID 77, Page 1, Line 1, Pos (52,37)
 msgid ""
@@ -3527,6 +3546,9 @@ msgid ""
 "ゆめ2っきをここまで遊んでいただき\n"
 "ありがとうございます！"
 msgstr ""
+"Hello, I'm shigurin\n"
+"For playing Yume 2kki to here,\n"
+"thank you!"
 
 #. ID 98, Page 1, Line 5, Pos (49,39)
 msgid "とりあえずこの堅苦しい感じやめにしません？"
@@ -3540,12 +3562,18 @@ msgid ""
 "帰る\n"
 "変な動きして"
 msgstr ""
+"Stop!\n"
+"Ok!\n"
+"Return\n"
+"Move strangely"
 
 #. ID 98, Page 1, Line 9, Pos (49,39)
 msgid ""
 "ありがとう！じゃあ何か話そうかな\n"
 "何が聞きたい？"
 msgstr ""
+"Thank you! Well then, anything to talk about?\n"
+"Anything you want to hear?"
 
 #. ID 98, Page 1, Line 12, Pos (49,39)
 #. Choice (4 options)
@@ -3687,7 +3715,7 @@ msgstr ""
 
 #. ID 98, Page 1, Line 101, Pos (49,39)
 msgid "またね～～～！"
-msgstr ""
+msgstr "See you next time!"
 
 #. ID 98, Page 1, Line 110, Pos (49,39)
 #. Choice (2 options)
@@ -4045,7 +4073,7 @@ msgstr "In 2024 it was remastered."
 #. ID 101, Page 4, Line 107, Pos (81,84)
 #. ID 101, Page 5, Line 107, Pos (81,84)
 msgid "こんなの曲じゃない！効果音だよ！！"
-msgstr ""
+msgstr "This is not music! It's a sound effect!!"
 
 #. ID 101, Page 3, Line 116, Pos (81,84)
 #. ID 101, Page 4, Line 111, Pos (81,84)
@@ -4246,15 +4274,14 @@ msgstr ""
 "Have good dreams from now on."
 
 #. ID 104, Page 1, Line 8, Pos (39,37)
-#, fuzzy
 msgid ""
 "窯良(oneirokamara)\n"
 "　　夢のまた夢、見果てぬ夢たちへ…\n"
 "　　忘れられない夢はありますか？"
 msgstr ""
 "窯良(oneirokamara)\n"
-"  Dreams in dreams, to dreams with endless sights...\n"
-"  Are these dreams unforgettable?"
+"    Dreams in dreams, to dreams with endless sights...\n"
+"    Are these dreams unforgettable?"
 
 #. ID 104, Page 1, Line 11, Pos (39,37)
 msgid ""
@@ -4413,7 +4440,7 @@ msgstr "Woah!"
 
 #. ID 105, Page 2, Line 1, Pos (38,61)
 msgid "デバッグお疲れ様です、natlです。"
-msgstr ""
+msgstr "Thanks for your hard work debugging. I'm natl."
 
 #. ID 105, Page 2, Line 2, Pos (38,61)
 msgid ""
@@ -6302,7 +6329,7 @@ msgid ""
 "ちょっとだけ　マップを　つくりました"
 msgstr ""
 "Hello, I'm mizkura.\n"
-"It's not much, but I created a map"
+"It's not much, but I created a few maps"
 
 #. ID 128, Page 1, Line 9, Pos (52,50)
 msgid ""
