@@ -1494,10 +1494,10 @@ msgid ""
 "\n"
 "それでは・・・\\|よい夢を！"
 msgstr ""
-"Dreamers and those whom only sleep<\n"
+"Dreamers and those whom only sleep.\n"
 "now let us enjoy wonderful dreams.\n"
 "\n"
-"Well then, ......... \\\\|have good dreams!"
+"Well then......... \\|have good dreams!"
 
 #. ID 73, Page 1, Line 37, Pos (49,53)
 msgid "ではまたあとで。"
